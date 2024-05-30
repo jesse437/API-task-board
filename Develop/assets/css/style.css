@@ -1,5 +1,5 @@
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 16px;
 }
 
@@ -9,17 +9,8 @@ body {
 
 .task-card {
   margin: 0 auto;
-  z-index: 999;
 }
 
 .task-card:hover {
   cursor: grab;
-}
-
-
-textarea {
-  width: 100%;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
 }
