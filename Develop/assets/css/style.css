@@ -14,3 +14,10 @@ body {
 .task-card:hover {
   cursor: grab;
 }
+
+#done.ui-droppable .task-card {
+  background-color: lightgreen !important;
+}
+#in-progress.ui-droppable .task-card {
+  background-color: lightblue !important;
+}
