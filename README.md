@@ -22,7 +22,7 @@
 
 # 5. Visuals
 
-![alt text](Develop/API-TASK.png)
+![alt text](Assets/images/API-TASK.png)
 
 # 6. Collaborators
 
